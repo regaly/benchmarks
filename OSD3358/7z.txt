@@ -1,0 +1,20 @@
+7-Zip [32] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,32 bits,1 CPU LE)
+
+LE
+CPU Freq:   991   992   994   994   994   993   994   971
+
+RAM size:     483 MB,  # CPU hardware threads:   1
+RAM usage:    435 MB,  # Benchmark threads:      1
+
+                       Compressing  |                  Decompressing
+Dict     Speed Usage    R/U Rating  |      Speed Usage    R/U Rating
+         KiB/s     %   MIPS   MIPS  |      KiB/s     %   MIPS   MIPS
+
+22:        382    99    376    372  |       9087   100    777    776
+23:        368   100    377    376  |       8878   100    770    769
+24:        354   100    382    381  |       8606   100    757    756
+25:        338    99    391    386  |       8245   100    736    734
+----------------------------------  | ------------------------------
+Avr:              99    381    379  |              100    760    758
+Tot:             100    571    569

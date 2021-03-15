@@ -1,0 +1,18 @@
+Measured at 10V psu:
+model 0 max clock idle: 3.8W
+model 0 max clock stress -c 2 : 6.1W (6.6W short peak fan start)
+
+model 1 max clock idle: 3.9W
+model 1 max clock stress -c 4 : 7.2W
+
+model 2 max clock idle: 4.0W
+model 2 max clock stress -c 6 : 9.2W (9.8W short peak fan start)
+
+model 3 max clock idle: 3.6W
+model 3 max clock stress -c 2 : 4.9W
+
+model 4 max clock idle: 3.6W
+model 4 max clock stress -c 4 : 5.8W
+
+model 5 max clock idle: 3.6W
+model 5 max clock stress -c 4 : 8.4W (9.0W short peak fan stat)

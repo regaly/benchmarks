@@ -1,0 +1,37 @@
+
+7-Zip 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=C,Utf16=off,HugeFiles=on,4 CPUs)
+
+RAM size:    3517 MB,  # CPU hardware threads:   4
+RAM usage:    850 MB,  # Benchmark threads:      4
+
+Dict        Compressing          |        Decompressing
+      Speed Usage    R/U Rating  |    Speed Usage    R/U Rating
+       KB/s     %   MIPS   MIPS  |     KB/s     %   MIPS   MIPS
+
+22:    1145   250    445   1114  |    19789   287    622   1785
+23:    1236   261    483   1260  |    20137   297    620   1842
+24:    1161   252    495   1249  |    18907   281    623   1754
+25:    1140   260    500   1301  |    20085   302    626   1888
+----------------------------------------------------------------
+Avr:          256    481   1231               292    623   1817
+Tot:          274    552   1524
+
+
+7-Zip 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=C,Utf16=off,HugeFiles=on,4 CPUs)
+
+RAM size:    3517 MB,  # CPU hardware threads:   4
+RAM usage:    419 MB,  # Benchmark threads:      1
+
+Dict        Compressing          |        Decompressing
+      Speed Usage    R/U Rating  |    Speed Usage    R/U Rating
+       KB/s     %   MIPS   MIPS  |     KB/s     %   MIPS   MIPS
+
+22:     623   100    606    606  |     8937   100    807    806
+23:     606   100    619    618  |     9211   100    843    843
+24:     603   100    648    648  |     9134   100    847    847
+25:     594   100    678    678  |     9124   100    858    858
+----------------------------------------------------------------
+Avr:          100    638    637               100    839    839
+Tot:          100    738    738
