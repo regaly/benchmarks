@@ -1,0 +1,42 @@
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,6 CPUs LE)
+
+LE
+CPU Freq:  1480  1484  1459  1483  1484  1485  1485  1485  1485
+
+RAM size:    7763 MB,  # CPU hardware threads:   6
+RAM usage:   1323 MB,  # Benchmark threads:      6
+
+                       Compressing  |                  Decompressing
+Dict     Speed Usage    R/U Rating  |      Speed Usage    R/U Rating
+         KiB/s     %   MIPS   MIPS  |      KiB/s     %   MIPS   MIPS
+
+22:       4308   195   2145   4191  |      40850   197   1772   3484
+23:       4434   196   2299   4518  |      40195   199   1752   3478
+24:       4389   198   2383   4720  |      39881   199   1760   3500
+25:       4409   198   2547   5034  |      38757   198   1746   3449
+----------------------------------  | ------------------------------
+Avr:             197   2344   4616  |              198   1757   3478
+Tot:             197   2051   4047
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,6 CPUs LE)
+
+LE
+CPU Freq:  1479  1485  1484  1485  1485  1485  1484  1485  1485
+
+RAM size:    7763 MB,  # CPU hardware threads:   6
+RAM usage:    435 MB,  # Benchmark threads:      1
+
+                       Compressing  |                  Decompressing
+Dict     Speed Usage    R/U Rating  |      Speed Usage    R/U Rating
+         KiB/s     %   MIPS   MIPS  |      KiB/s     %   MIPS   MIPS
+
+22:       1934   100   1891   1882  |      21384   100   1832   1826
+23:       1869   100   1914   1905  |      19793   100   1720   1713
+24:       1814   100   1959   1951  |      19174   100   1689   1683
+25:       1776   100   2037   2028  |      20293    99   1816   1806
+----------------------------------  | ------------------------------
+Avr:             100   1950   1942  |              100   1764   1757
+Tot:             100   1857   1849
