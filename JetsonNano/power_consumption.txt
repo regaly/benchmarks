@@ -1,0 +1,6 @@
+Measured at 10V psu:
+model 0 max clock idle: 2.0W
+model 0 max clock stress -c 4 : 4.4W
+
+model 1 max clock idle: 1.85W
+model 1 max clock stress -c 4 : 3.1W
